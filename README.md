@@ -70,8 +70,6 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 
 </div>
 
-> ⚠️ Replace `abdulalisadaqat` above with your actual GitHub username to activate these widgets.
-
 <br/>
 
 ## 🚀 Currently Working On
