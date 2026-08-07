@@ -61,9 +61,9 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars)
-![Top Language](https://img.shields.io/github/languages/top)
-![Last Commit](https://img.shields.io/github/last-commit)
+![Stars](https://img.shields.io/github/stars/abdulalisadaqat)
+![Top Language](https://img.shields.io/github/languages/top/abdulalisadaqat)
+![Last Commit](https://img.shields.io/github/last-commit/abdulalisadaqat)
 
 <br/>
 
