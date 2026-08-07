@@ -61,8 +61,10 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulalisadaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalisadaqat&layout=compact&theme=tokyonight&hide_border=true" />
+![Stars](https://img.shields.io/github/stars/abdulalisadaqat?style=social)  
+![Top Language](https://img.shields.io/github/languages/top/abdulalisadaqat/MyHerat)  
+![Repo Size](https://img.shields.io/github/repo-size/abdulalisadaqat/MyHerat)  
+![Last Commit](https://img.shields.io/github/last-commit/abdulalisadaqat/MyHerat)  
 
 <br/>
 
