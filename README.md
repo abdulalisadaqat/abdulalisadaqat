@@ -62,9 +62,9 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/abdulalisadaqat?style=social)  
-![Top Language](https://img.shields.io/github/languages/top/abdulalisadaqat/MyHerat)  
-![Repo Size](https://img.shields.io/github/repo-size/abdulalisadaqat/MyHerat)  
-![Last Commit](https://img.shields.io/github/last-commit/abdulalisadaqat/MyHerat)  
+![Top Language](https://img.shields.io/github/languages/top/abdulalisadaqat)  
+![Repo Size](https://img.shields.io/github/repo-size/abdulalisadaqat)  
+![Last Commit](https://img.shields.io/github/last-commit/abdulalisadaqat)  
 
 <br/>
 
