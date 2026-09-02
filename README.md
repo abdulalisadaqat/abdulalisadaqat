@@ -22,6 +22,7 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 - 🤖 Interested in integrating **AI tools** into everyday development workflows
 - 🌱 Currently exploring specialization paths: full-stack, frontend, and mobile/game development
 - 📫 Open to connecting with other developers and contributing to the community
+- 📈 Willing to grow as **Software Engineer and Architect**
 
 <br/>
 
