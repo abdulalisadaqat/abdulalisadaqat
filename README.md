@@ -77,6 +77,7 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 - Building production-grade web apps with the Next.js + Prisma + Tailwind stack
 - Sharpening full-stack fundamentals while deciding on a specialization
 - Learning how to get the most out of AI-assisted development tools
+- Learning *Software Engineering and Architecting*
 
 <br/>
 
