@@ -67,7 +67,6 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=abdulalisadaqat&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=abdulalisadaqat&theme=tokyonight&hide_border=true" />
 
 </div>
 
