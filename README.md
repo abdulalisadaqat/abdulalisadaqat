@@ -66,11 +66,11 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mossicode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulalisadaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossicode&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalisadaqat&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
