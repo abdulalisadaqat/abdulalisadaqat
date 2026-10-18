@@ -63,7 +63,6 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/abdulalisadaqat)
-
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulalisadaqat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
