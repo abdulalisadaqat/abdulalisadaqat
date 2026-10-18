@@ -74,6 +74,7 @@ I build modern, fast web applications with **Next.js**, **React**, and **TypeScr
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalisadaqat&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=abdulalisadaqat&theme=tokyonight&hide_border=true" />
 
